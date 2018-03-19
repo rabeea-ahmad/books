@@ -14,3 +14,4 @@ Reading is something I have always found intellectually simulating, therapeutic 
 | Eat, Pray, Love | Elizabeth Gilbert | [3.52](https://www.goodreads.com/book/show/19501.Eat_Pray_Love) | [ ] |     |  
 | The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich | Timothy Ferriss | [3.61](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) | [ ] |     |
 | Life of Pi | Yann Martel | [3.89](https://www.goodreads.com/book/show/4214.Life_of_Pi) | [ ] |     |
+| Thinking in Systems | Donella H. Meadows, Diana Wright | [4.24](https://www.goodreads.com/book/show/3828902-thinking-in-systems) | [ ] |     |
