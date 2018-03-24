@@ -1,6 +1,7 @@
 # A collection of books I should read
 
-Reading is something I have always found intellectually simulating, therapeutic and entertaining. It's also something I need to priortize more. 
+Reading is something I have always found intellectually simulating, therapeutic and entertaining. It's also something I need to priortize more.
+One of my goals for 2018 was to read at least 10 books, so here's to hopefully checking some of these off the list :) 
 
 
 ## The complete list 
@@ -15,3 +16,8 @@ Reading is something I have always found intellectually simulating, therapeutic 
 | The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich | Timothy Ferriss | [3.61](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) | <ul><li> - [ ] </li></ul> |     |
 | Life of Pi | Yann Martel | [3.89](https://www.goodreads.com/book/show/4214.Life_of_Pi) | <ul><li> - [ ] </li></ul> |     |
 | Thinking in Systems | Donella H. Meadows, Diana Wright | [4.24](https://www.goodreads.com/book/show/3828902-thinking-in-systems) | <ul><li> - [ ] </li></ul> |     |
+| Influence: The Psychology of Persuasion | Robert Cialdini | [4.19](https://www.goodreads.com/book/show/28815.Influence) | <ul><li> - [ ] </li></ul> |     |
+| The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger | Marc Levinson | [3.86](https://www.goodreads.com/book/show/316767.The_Box) | <ul><li> - [ ] </li></ul> |     |
+| The Rational Optimist: How Prosperity Evolves | Matt Ridley | [3.98](https://www.goodreads.com/book/show/7776209-the-rational-optimist) | <ul><li> - [ ] </li></ul> |     |
+
+
