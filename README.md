@@ -19,5 +19,6 @@ One of my goals for 2018 was to read at least 10 books, so here's to hopefully c
 | Influence: The Psychology of Persuasion | Robert Cialdini | [4.19](https://www.goodreads.com/book/show/28815.Influence) | <ul><li> - [ ] </li></ul> |     |
 | The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger | Marc Levinson | [3.86](https://www.goodreads.com/book/show/316767.The_Box) | <ul><li> - [ ] </li></ul> |     |
 | The Rational Optimist: How Prosperity Evolves | Matt Ridley | [3.98](https://www.goodreads.com/book/show/7776209-the-rational-optimist) | <ul><li> - [ ] </li></ul> |     |
+| 12 Rules For Life: An Antidote to Chaos | Jordan Peterson | [4.17](https://www.goodreads.com/book/show/30257963-12-rules-for-life) | <ul><li> - [ ] </li></ul> |     |
 
 
