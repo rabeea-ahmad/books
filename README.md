@@ -21,5 +21,6 @@ One of my goals for 2018 was to read at least 10 books, so here's to hopefully c
 | The Rational Optimist: How Prosperity Evolves | Matt Ridley | [3.98](https://www.goodreads.com/book/show/7776209-the-rational-optimist) | <ul><li> - [ ] </li></ul> |     |
 | 12 Rules For Life: An Antidote to Chaos | Jordan Peterson | [4.17](https://www.goodreads.com/book/show/30257963-12-rules-for-life) | <ul><li> - [ ] </li></ul> |     |
 | The Great Gatsby | F. Scott Fitzgerald | [3.90](https://www.goodreads.com/book/show/4671.The_Great_Gatsby) | <ul><li> - [ ] </li></ul> |     |
+| The 48 Laws of Power | Robert Greene | [4.19](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power) | <ul><li> - [ ] </li></ul> |     |
 
 
