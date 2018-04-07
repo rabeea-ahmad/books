@@ -23,5 +23,6 @@ One of my goals for 2018 was to read at least 10 books, so here's to hopefully c
 | The Great Gatsby | F. Scott Fitzgerald | [3.90](https://www.goodreads.com/book/show/4671.The_Great_Gatsby) | <ul><li> - [ ] </li></ul> |     |
 | The 48 Laws of Power | Robert Greene | [4.19](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power) | <ul><li> - [ ] </li></ul> |     |
 | Difficult Conversations: How to Discuss What Matters Most | Douglas Stone, Bruce Patton, Sheila Heen | [4.05](https://www.goodreads.com/book/show/774088.Difficult_Conversations) | <ul><li> - [ ] </li></ul> |     |
+| Maps of Meaning | Jordan Peterson | [4.35](https://www.goodreads.com/book/show/2218102.Maps_of_Meaning) | <ul><li> - [ ] </li></ul> |     |
 
 
