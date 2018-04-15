@@ -25,5 +25,6 @@ One of my goals for 2018 was to read at least 10 books, so here's to hopefully c
 | Difficult Conversations: How to Discuss What Matters Most | Douglas Stone, Bruce Patton, Sheila Heen | [4.05](https://www.goodreads.com/book/show/774088.Difficult_Conversations) | <ul><li> - [ ] </li></ul> |     |
 | The Opposite of Loneliness: Essays and Stories | Marina Keegan | [3.83](https://www.goodreads.com/book/show/18143905-the-opposite-of-loneliness) | <ul><li> - [ ] </li></ul> |     |
 | Maps of Meaning | Jordan Peterson | [4.35](https://www.goodreads.com/book/show/2218102.Maps_of_Meaning) | <ul><li> - [ ] </li></ul> |     |
+| Year of Yes: How to Dance It Out, Stand In the Sun and Be Your Own Person | Shonda Rhimes | [4.06](https://www.goodreads.com/book/show/29540318-year-of-yes) | <ul><li> - [ ] </li></ul> |     |
 
 
